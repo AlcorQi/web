@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://psstatic.cdn.bcebos.com/basics/wise_global/searchbox/personal-center_8e143b4_1726815913000.png",
+    "filepath": "images\\personal-center_8e143b4_1726815913000.png",
+    "alt": "用户头像",
+    "title": ""
+  },
+  {
+    "url": "https://ms.bdstatic.com/se/static/indexatom/personalcenter/assets/img/default_icon_02f13d8.png",
+    "filepath": "images\\default_icon_02f13d8.png",
+    "alt": "head_icon",
+    "title": ""
+  },
+  {
+    "url": "https://psstatic.cdn.bcebos.com/basics/wise_global/searchbox/%E4%B8%8B%E8%BD%BD_1726815906000.png",
+    "filepath": "images\\%E4%B8%8B%E8%BD%BD_1726815906000.png",
+    "alt": "搜索精选",
+    "title": ""
+  },
+  {
+    "url": "https://psstatic.cdn.bcebos.com/basics/2025_wiseindex/wiseindex-logo_1756889417000.png",
+    "filepath": "images\\wiseindex-logo_1756889417000.png",
+    "alt": "百度一下,你就知道",
+    "title": ""
+  },
+  {
+    "url": "https://pss.bdstatic.com/static/wiseindex/img/fetch_ing_8_0.png",
+    "filepath": "images\\fetch_ing_8_0.png",
+    "alt": "",
+    "title": ""
+  }
+]

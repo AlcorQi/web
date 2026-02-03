@@ -1,0 +1,5 @@
+2026-02-03 23:24:42,281 INFO 爬虫初始化完成
+2026-02-03 23:26:37,076 INFO 爬虫初始化完成
+2026-02-03 23:26:50,780 INFO 爬虫初始化完成
+2026-02-03 23:27:38,725 ERROR Selenium请求异常: Could not reach host. Are you offline?, URL: https://www.baidu.com
+2026-02-03 23:30:03,602 INFO 爬虫初始化完成

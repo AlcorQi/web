@@ -1,0 +1,6 @@
+2026-02-03 17:44:48,390 INFO 爬虫初始化完成
+2026-02-03 17:44:48,689 ERROR Selenium请求异常: No module named 'webdriver_manager', URL: https://www.bilibili.com/
+2026-02-03 17:44:48,691 ERROR 未能爬取到数据
+2026-02-03 17:44:48,692 ERROR Selenium请求异常: No module named 'webdriver_manager', URL: https://www.bilibili.com/
+2026-02-03 23:31:23,084 INFO 爬虫初始化完成
+2026-02-03 23:31:23,514 ERROR Selenium请求异常: No module named 'webdriver_manager', URL: https://www.baidu.com
